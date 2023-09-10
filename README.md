@@ -13,4 +13,12 @@
 <img width="444" alt="Screen Shot 2023-09-10 at 5 33 00 PM" src="https://github.com/syang44/ECE444-F2023-Assignment1/assets/81589347/631a656c-22d2-48a8-8847-ff95453d33cf">
 <img width="607" alt="Screen Shot 2023-09-10 at 5 35 19 PM" src="https://github.com/syang44/ECE444-F2023-Assignment1/assets/81589347/7aa59d85-ebfc-411f-b852-ec09360a55db">
 
+## Activity 5
+<img width="596" alt="Screen Shot 2023-09-10 at 5 57 03 PM" src="https://github.com/syang44/ECE444-F2023-Assignment1/assets/81589347/f7d0b955-fd95-42b1-b94a-fd9dc83fd75f">
+<img width="603" alt="Screen Shot 2023-09-10 at 5 58 13 PM" src="https://github.com/syang44/ECE444-F2023-Assignment1/assets/81589347/8feaeea1-acfc-4f52-8658-c7b4f0dc95e7">
+<img width="607" alt="Screen Shot 2023-09-10 at 5 59 01 PM" src="https://github.com/syang44/ECE444-F2023-Assignment1/assets/81589347/f5d72111-519f-4906-b0dc-7b4043bfa2fd"><img width="516" alt="Screen Shot 2023-09-10 at 6 00 09 PM" src="https://github.com/syang44/ECE444-F2023-Assignment1/assets/81589347/64fc76cd-f47d-472a-9e4e-8a9a7439929d">
+
+
+
+
 
