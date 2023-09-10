@@ -11,4 +11,6 @@
 
 ## Activity 4
 <img width="444" alt="Screen Shot 2023-09-10 at 5 33 00 PM" src="https://github.com/syang44/ECE444-F2023-Assignment1/assets/81589347/631a656c-22d2-48a8-8847-ff95453d33cf">
+<img width="607" alt="Screen Shot 2023-09-10 at 5 35 19 PM" src="https://github.com/syang44/ECE444-F2023-Assignment1/assets/81589347/7aa59d85-ebfc-411f-b852-ec09360a55db">
+
 
